@@ -31,7 +31,7 @@ yarn install
 
 👤 **Kotlia**
 
-* Twitter: [@\_Kotlia](https://twitter.com/\_Kotlia)
+* Twitter: [@_Kotlia](https://twitter.com/\_Kotlia)
 * Github: [@Kotlia](https://github.com/Kotlia)
 
 ## 🤝 Contributing
