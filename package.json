@@ -1,0 +1,22 @@
+{
+  "name": "jp.js",
+  "version": "1.0.0",
+  "description": "Japanese transliteration library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kotlia/jp.js.git"
+  },
+  "author": "Kotlia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kotlia/jp.js/issues"
+  },
+  "homepage": "https://github.com/Kotlia/jp.js#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
