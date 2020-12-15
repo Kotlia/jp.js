@@ -1,5 +1,5 @@
 {
-  "name": "jp.js",
+  "name": "@kotlia/jp.js",
   "version": "1.0.0",
   "description": "Japanese transliteration library",
   "main": "index.js",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Kotlia/jp.js#readme",
   "dependencies": {
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.1",
+    "typescript": "^4.1.3"
   }
 }
